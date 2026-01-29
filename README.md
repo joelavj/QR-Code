@@ -15,7 +15,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 - Solution URL:[https://github.com/joelavj/QR-Code.git](https://github.com/joelavj/QR-Code.git)
-- Live Site URL: [https://joelavj.github.io/QR-Code/](https://joelavj.github.io/QR-Code/)
+- Live Site URL: [https://joelavj.github.io/QR-Code/index.html](https://joelavj.github.io/QR-Code/)
 
 ## My process
 ### Built with
@@ -28,3 +28,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 - Frontend Mentor - [@joelavj](https://www.frontendmentor.io/profile/joelavj)
+
