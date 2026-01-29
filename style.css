@@ -18,12 +18,13 @@ body{
 }
 .container{
   background-color: white;
-  width: 30vw;
+  width: 24em;
   display: flex;
   flex-direction: column;
   padding: 10px;
   border-radius: 10px;
   margin: 0 auto;
+  transform: scale(0.7);
 }
 img{
   border-radius: 10px;
@@ -37,8 +38,13 @@ p{
   font-size: 15px;
   opacity: 0.6;
 }
-@media  screen and (max-width:900px) {
+@media  screen and (max-width:900px){
     .container{
-      width: 75vw;
+      width: 30em;
     }
+}
+@media (prefers-reduced-motion: reduce){
+  *{
+    transition: .6s;
+  }
 }
